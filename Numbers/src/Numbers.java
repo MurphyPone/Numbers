@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Numbers {
 
 	/**
+	 * @EDITOR Arwinstanley
 	 * @user MurphyP1
 	 * @date 9/6/2017
 	 * @method main
@@ -14,6 +15,7 @@ public class Numbers {
 	 * @return an array of strings?
 	 */
 	public static void main(String[] args) {
+		int alex5sNum = 9;
 		// TODO Auto-generated method stub
 		Scanner kb = new Scanner(System.in);
 		
